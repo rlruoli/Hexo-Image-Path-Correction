@@ -20,6 +20,6 @@ npm install hexo-image-path-correction --save
 
 ## 手动安装
 
-1. 从 [releases](https://github.com/rlruoli/Hexo-Image-Path-Correction/releases/latest) 中或直接下载zip包
+1. 直接下载zip包
 2. 解压到 `node_modules` 文件夹
 
