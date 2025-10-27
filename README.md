@@ -7,3 +7,19 @@ Hexo本地图像路径修正插件
 于是一怒之下就有了这玩意
 
 本插件可以实现在渲染md文件前将md文件中引用的图像路径处理到只剩最后的文件名，算是给post_asset_folder配置项打了个兼容编辑器的补丁
+
+# 使用方法：
+
+## npm包管理器
+
+```bash
+npm install hexo-image-path-correction --save
+```
+
+
+
+## 手动安装
+
+1. 从 [releases](https://github.com/rlruoli/Hexo-Image-Path-Correction/releases/latest) 中或直接下载zip包
+2. 解压到 `node_modules` 文件夹
+
